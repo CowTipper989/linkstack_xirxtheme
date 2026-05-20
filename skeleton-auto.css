@@ -67,7 +67,8 @@
         line-height: 24px;
         font-weight: 400;
         background: #292929;
-        background: radial-gradient(circle, #292929 28%, #1b1b1b 100%);
+        /*background: radial-gradient(circle, #292929 28%, #1b1b1b 100%); */
+        background:linear-gradient(142deg, rgba(8, 139, 150, 1) 1%, rgba(20, 61, 66, 1) 36%, rgba(107, 58, 107, 1) 99%);
         font-family: "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
         color: #FFFFFF; }
     }
