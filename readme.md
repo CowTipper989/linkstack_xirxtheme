@@ -2,7 +2,7 @@
 Find more themes: https://github.com/JulianPrieber/llc-themes
                                                                                                                                                                          
 *	Theme Name: Xirxtheme
-*	Theme Version: 1.1
+*	Theme Version: 1.3
 *	Theme Date: 2026-19-05
 *	Theme Author: CowTipper989
 *	Theme Author URI: https://github.com/CowTipper989
